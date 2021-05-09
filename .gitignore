@@ -1,0 +1,6 @@
+node_modules
+jscode
+build
+*.tgz
+secret.txt
+.env
