@@ -1,6 +1,5 @@
 // Copyright (c) 2021 Surien Joseph Das-Giwojno
 
-
 const dev = false;
 
 // If in development we simply read the unencrypted version of the environment file
