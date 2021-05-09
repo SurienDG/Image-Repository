@@ -4,7 +4,6 @@
   "description": "An image respository where users can store and share images",
   "main": "app.js",
   "dependencies": {
-    "@rimiti/express-async": "^1.2.0",
     "@types/mongoose": "^5.10.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
@@ -25,8 +24,6 @@
     "eslint-plugin-prefer-arrow": "^1.2.3",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.2",
-    "node-addon-api": "^3.0.0",
-    "node-gyp": "^6.1.0",
     "nodemon": "^2.0.3",
     "rimraf": "^3.0.2",
     "ts-node": "^8.10.1",
